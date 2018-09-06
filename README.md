@@ -1,6 +1,7 @@
 # zilla
-Install MySQL
-Install the MySQL server by using the Ubuntu package manager:
+#Install MySQL
+
+#Install the MySQL server by using the Ubuntu package manager:
 '''''''
   sudo apt-get update
   sudo apt-get install mysql-server
